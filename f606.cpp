@@ -1,3 +1,5 @@
+//https://zerojudge.tw/ShowProblem?problemid=f606
+//https://zerojudge.tw/ShowThread?postid=42863&reply=0
 #include<bits/stdc++.h>
 using namespace std;
 
